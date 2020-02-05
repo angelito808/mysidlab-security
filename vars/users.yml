@@ -1,8 +1,8 @@
 ---
 users:
   - name: user1
-    aws_groups: "sacramento, fresno, indio"
+    aws_groups: "Real_Madrid, Barcelona, Athletico_Madrid"
   - name: user2
-    aws_groups: "losangeles, sanfrancisco, napa"
+    aws_groups: "Liverpool, Man_City, Chelsea"
   - name: user3
-    aws_groups: "palmsprings, indio, sandiego"
+    aws_groups: "Juventus, Roma, Inter_Milan"
